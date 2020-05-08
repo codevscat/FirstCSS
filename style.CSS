@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body
+{
+	text-align: center;
+}
+header
+{
+	height: 90px;
+	background-color: #74E816;
+	margin: -50px;
+	padding: 50px;
+}
+footer
+{
+	height: 70px;
+	background-color: #74E816;
+	color: #323BCCFF;
+	margin: -10px;
+	padding: 20px;
+}
+div
+{
+	height: 300px;
+	color: #323BCCFF;
+	background-color: #2FCFC3FF;
+	font-size: 300%;
+	text-decoration: underline;
+	margin: -10px;
+	padding: 40px;
+}
